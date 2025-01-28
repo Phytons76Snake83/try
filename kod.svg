@@ -1,3 +1,7 @@
-<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
-  <text x="30" y="70" font-size="70" fill="grey" font-family="sans-serif">k</text>
+  <svg width="100" height="100">
+  <path d="M 10 45
+           A 25 25 0 0 1 90 45
+           L 55 45
+           L 55 80
+           A 5 5 0 0 1 35 80" stroke="black" stroke-width="5" fill="none"/>
 </svg>
